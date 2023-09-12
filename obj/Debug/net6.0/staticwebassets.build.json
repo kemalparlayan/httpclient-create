@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lPMWas/+pOIJtkK0z3pt5aRcrKmZs5plKGzIRwWeRWk=",
+  "Source": "httpclient-create",
+  "BasePath": "_content/httpclient-create",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
