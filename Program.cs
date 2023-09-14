@@ -20,6 +20,8 @@ builder.Services.AddHttpClient("rapidapi", client =>
 
 builder.Services.AddHttpClient<LanguageClient>();
 
+builder.Services.Configure<LanguageServiceSetting>(builder.Configuration.GetSection("LanguageServiceSettings"));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
